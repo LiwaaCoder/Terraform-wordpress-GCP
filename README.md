@@ -27,3 +27,5 @@ Before running this Terraform configuration, make sure you have the following:
 
 <img width="1278" alt="image" src="https://user-images.githubusercontent.com/66652532/219960113-aaf32301-2996-444e-8274-38b80e85b207.png">
 <img width="1278" alt="image" src="https://user-images.githubusercontent.com/66652532/219960343-35f4eb6f-881a-4244-b31c-2c2e8a68fcf6.png">
+<img width="1487" alt="image" src="https://user-images.githubusercontent.com/66652532/219960468-94894f81-d73c-4e59-a41c-2a7a8d501057.png">
+
