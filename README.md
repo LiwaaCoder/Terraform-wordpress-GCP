@@ -24,9 +24,8 @@ Before running this Terraform configuration, make sure you have the following:
 
 
 
-
-<img width="1278" alt="image" src="https://user-images.githubusercontent.com/66652532/219960113-aaf32301-2996-444e-8274-38b80e85b207.png">
-<img width="1278" alt="image" src="https://user-images.githubusercontent.com/66652532/219960343-35f4eb6f-881a-4244-b31c-2c2e8a68fcf6.png">
-<img width="1487" alt="image" src="https://user-images.githubusercontent.com/66652532/219971416-557eb212-c022-4268-b7f2-b4b178920502.png">
-<img width="1487" alt="image" src="https://user-images.githubusercontent.com/66652532/219971427-b1a68620-648d-4101-a714-996b38a0afcf.png">
-<img width="1487" alt="image" src="https://user-images.githubusercontent.com/66652532/219971431-32f15a5b-0241-450f-9d26-07a76114cdad.png">
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/66652532/221374559-8def2fbe-6870-470b-a3b9-1621a35e607d.png">
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/66652532/221374567-7f776cc7-35bb-40e8-b169-a19136e16617.png">
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/66652532/221374576-f2f045f8-7d96-460f-a51a-ea00ef11475d.png">
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/66652532/221374585-fa8b43d8-57f1-4a3f-ab25-7d819b1e15d2.png">
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/66652532/221374592-51ce657d-cec9-4ca6-a00e-ccaa83102914.png">
